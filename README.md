@@ -11,3 +11,4 @@ Tech: React + TanStack Start, Tailwind CSS, Vercel AI SDK, Lovable AI Gateway (O
 - Pages: `src/routes/`
 
 Run locally: `bun install && bun run dev` (requires `LOVABLE_API_KEY` on the server).
+https://buddy-ai-workflows.lovable.app/
